@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(pink,white,pink);
+
+    
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;}
+
+h1{
+    text-align: center; 
+    color: blue; 
+    font-size: 2em;
+    letter-spacing: 10px;
+    text-shadow: 3px 5px 3px purple ;
+    font-style: italic;
+}
+
+.violeta,h3{
+    color:blueviolet;
+
+}
+
+.derecha{
+    font-weight: bold; 
+    text-align: right;
+    font-size: 2em;
+}
+
+
+.pintoras p{
+    color: blueviolet;
+    font-weight: bolder;
+    text-align: justify;
+    
+
+}
+.pintoras{
+    background-color: rgb(186, 144, 226);
+    border: 3px solid blueviolet;
+    
+
+}
+
+.fechas, h5{color:deeppink;}
+
